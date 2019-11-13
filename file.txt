@@ -1,4 +1,1 @@
 name:Prakriti
-Hobby:Music
-College:Advanced college
-
