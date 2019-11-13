@@ -1,5 +1,1 @@
 name:Prakriti
-Hobby:Music,travelling
-age :23
-College:Advanced college of eng.
-
